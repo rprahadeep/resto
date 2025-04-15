@@ -9,9 +9,9 @@ This is a simple Python project that uses **LangChain** and **Gemini 2.0** by Go
 
 ## 🛠️ Technologies Used
 
-- [LangChain](https://www.langchain.com/)
-- [Google Generative AI](https://ai.google.dev/)
-- Python 3.10+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![LangChain](https://img.shields.io/badge/LangChain-%23008CFF.svg?style=for-the-badge&logo=LangChain&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -33,9 +33,10 @@ The app uses a two-step chain:
 2. **Install dependencies:**
     ```bash
    pip install langchain langchain-google-genai
+   pip install streamlit
 3. **Create a file named secret_key.py:**
    ```bash
    gemini_api = "your_api_key_here"
-4. **Run the script:**
+4. **Run the app:**
    ```bash
-   py main.py
+   streamlit run main.py
