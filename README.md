@@ -1,4 +1,4 @@
-# 🍝 Restaurant Name and Menu Generator
+## Restaurant Name and Menu Generator
 
 This is a simple Python project that uses **LangChain** and **Gemini 2.0** by Google Generative AI to:
 
@@ -7,7 +7,7 @@ This is a simple Python project that uses **LangChain** and **Gemini 2.0** by Go
 
 ---
 
-## 🛠️ Technologies Used
+### Technologies Used
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![LangChain](https://img.shields.io/badge/LangChain-%23008CFF.svg?style=for-the-badge&logo=LangChain&logoColor=white)
@@ -15,7 +15,7 @@ This is a simple Python project that uses **LangChain** and **Gemini 2.0** by Go
 
 ---
 
-## 🚀 How It Works
+### How It Works
 
 The app uses a two-step chain:
 
@@ -24,7 +24,7 @@ The app uses a two-step chain:
 
 ---
 
-## 📦 Installation
+### Installation
 
 1. **Clone the repo:**
    ```bash
