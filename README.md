@@ -1,4 +1,4 @@
-## Restaurant Name and Menu Generator
+## Restaurant Name and Menu Items Generator
 
 This is a simple Python project that uses **LangChain** and **Gemini 2.0** by Google Generative AI to:
 
